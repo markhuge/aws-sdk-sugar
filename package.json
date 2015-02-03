@@ -1,6 +1,6 @@
 {
   "name": "aws-sdk-sugar",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "This tries to make working with AWS-sdk less painful",
   "main": "index.js",
   "repository": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/markhuge/aws-sdk-sugar/issues"
   },
-  "homepage": "https://github.com/markhuge/aws-sdk-sugar"
+  "homepage": "https://github.com/markhuge/aws-sdk-sugar",
+  "dependencies": {
+    "aws-sdk": "^2.1.8"
+  }
 }

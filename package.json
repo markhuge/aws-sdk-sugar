@@ -1,0 +1,22 @@
+{
+  "name": "aws-sdk-sugar",
+  "version": "0.0.0",
+  "description": "This tries to make working with AWS-sdk less painful",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markhuge/aws-sdk-sugar"
+  },
+  "keywords": [
+    "aws",
+    "aws-sdk",
+    "amazon",
+    "ec2"
+  ],
+  "author": "Mark Wilkerson <mark@segfawlt.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markhuge/aws-sdk-sugar/issues"
+  },
+  "homepage": "https://github.com/markhuge/aws-sdk-sugar"
+}

@@ -1,3 +1,9 @@
+#  Maybe don't use this yet.
+
+I just noticed a big spike in downloads on npm. I'm hoping this is mirrors/bots and not real people.
+
+This package isn't even *remotely* stable right now.
+
 # Abstract
 
 This module is a collection of method wrappers to (hopefully) lower the barrier to entry for interacting with AWS services.

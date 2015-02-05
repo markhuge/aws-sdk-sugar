@@ -1,6 +1,6 @@
 {
   "name": "aws-sdk-sugar",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "This tries to make working with AWS-sdk less painful",
   "main": "index.js",
   "repository": {
